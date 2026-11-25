@@ -1,0 +1,13 @@
+{
+  "name": "vault-brain",
+  "description": "Personal marketplace for vault-brain: an Obsidian-vault brain for Claude Code",
+  "owner": { "name": "CamiloClaure" },
+  "plugins": [
+    {
+      "name": "vault-brain",
+      "source": "./",
+      "description": "Persistent brain over an Obsidian vault with a tiny always-loaded index.",
+      "version": "0.1.0"
+    }
+  ]
+}
